@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {PVPBMPSMPPAK
-    "ip": "PVPBMPSMPPAK.aternos.me",
-    "port": 37669,
+  "server": {
+    "ip": ".aternos.me",
+    "port": ,
     "version": "",
     "try-creative": false
   },
